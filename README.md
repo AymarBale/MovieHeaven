@@ -22,7 +22,13 @@
 1. Ouvrez NetBeans.
 2. Importez le fichier DataBase.
 3. Compilez et lancez le projet.
+4. 
+<h2> Langage utilise</h2>
 
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ## Configuration
 Assurez-vous de configurer les paramètres appropriés dans les fichiers de configuration, notamment les informations de base de données, les ports, et autres configurations spécifiques au projet.
 
