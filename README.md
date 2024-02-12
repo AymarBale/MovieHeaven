@@ -1,6 +1,7 @@
 # Movies-Heaven
 <h2>Introduction</h2>
 <p> Il s'agit d'un projet fait en équipe dans le cadre de ma formation en Web. Le projet consiste à faire un site web avec deux serveurs, un serveur backend en J2EE et un serveur frontend en React qui communiquent entre eux à l'aide de requêtes. Le serveur backend a quant à lui fait des requêtes vers une base de donnée. Pour ensuite envoyer les réponses vers le front end.</p>
+
 ## Instructions d'installation
 
 ### FrontEnd
