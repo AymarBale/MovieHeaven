@@ -2,6 +2,15 @@
 <h2>Introduction</h2>
 <p> Il s'agit d'un projet fait en équipe dans le cadre de ma formation en Web. Le projet consiste à faire un site web avec deux serveurs, un serveur backend en J2EE et un serveur frontend en React qui communiquent entre eux à l'aide de requêtes. Le serveur backend a quant à lui fait des requêtes vers une base de donnée. Pour ensuite envoyer les réponses vers le front end.</p>
 
+## Demo
+
+![Screenshot (33)](https://github.com/AymarBale/MovieHeaven/assets/62848857/1b80f426-81be-4ec9-bd35-f3594bc268be)
+
+![Screenshot (34)](https://github.com/AymarBale/MovieHeaven/assets/62848857/78d4b57c-6794-4723-858d-fc3dd75efabd)
+
+https://github.com/AymarBale/MovieHeaven/assets/62848857/8e52dce6-b934-44d5-a8bc-eddee55c88fb
+
+
 ## Instructions d'installation
 
 ### FrontEnd
